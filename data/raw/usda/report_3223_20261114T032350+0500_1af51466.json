@@ -1,0 +1,11 @@
+{
+    "report_id": "3223",
+    "report_name": "Kansas City Board of Trade Daily Wheat Bids",
+    "source_url": "https://www.ams.usda.gov/mnreports/ams_3223.pdf",
+    "retrieved_at_tashkent": "2026-11-14T03:23:50.702143+05:00",
+    "sha256": "1af51466f27bc4a99efed5553f5bd08f0a86304b7e9ac3f805c898413e5a06a8",
+    "filename": "report_3223_20261114T032350+0500_1af51466.pdf",
+    "page_count": 2,
+    "report_date": null,
+    "report_date_status": "requires_manual_verification"
+}

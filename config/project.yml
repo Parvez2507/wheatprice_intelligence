@@ -1,0 +1,48 @@
+project:
+  name: WheatPrice Intelligence
+  timezone: Asia/Tashkent
+  prediction_cutoff: "06:00"
+  forecast_horizon_trading_days: 1
+  target_matched_observations: 20
+  actual_assessed_collection_start: null
+  final_outcome_cutoff: "2026-12-12T06:00:00+05:00"
+  submission_deadline: "2026-12-14"
+
+series:
+  wheat:
+    report_id: "3223"
+    commodity: "US No. 1 Hard Red Winter Wheat"
+    section: "Mills and Processors"
+    market_type: "Bid"
+    protein: "Ordinary protein"
+    freight_basis: "FOB-R"
+    delivery: "Current"
+    price_field: "Average"
+    unit: "USD/bushel"
+  corn:
+    report_id: "3192"
+    commodity: "US No. 2 Yellow Corn (Bulk)"
+    section: "Country Elevators - Conventional"
+    location: "North Central"
+    market_type: "Bid"
+    freight_basis: "DLVD-T"
+    delivery: "Current"
+    price_field: "Average"
+    unit: "USD/bushel"
+
+evaluation:
+  split:
+    method: "fixed_chronological_origins"
+    planned_training_origins: 10
+    planned_validation_origins: 3
+    test_origins: "subsequent eligible origins"
+  max_lookback_trading_observations: 2
+  models:
+    - "Persistence"
+    - "Ridge Regression"
+    - "Random Forest"
+  ridge_alpha_robustness: [1, 10]
+  robustness_checks:
+    - "lookback_1_vs_2"
+    - "wheat_only_vs_wheat_plus_corn"
+    - "ridge_alpha_1_vs_10"
