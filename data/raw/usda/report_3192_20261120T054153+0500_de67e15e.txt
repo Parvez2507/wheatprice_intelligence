@@ -1,0 +1,681 @@
+Illinois Grain Bids
+AMS Livestock, Poultry and Grain Market News
+IL Dept. of Ag Market News                
+November  19,  2026
+Email us with accessibility issues with this report.
+Futures Settlements
+Exchange
+Commodity
+Closing Settlement Prices (¢/bu) as of 11/19/2026
+CBOT
+Corn
+439.00 (Dec 26)
+452.50 (Mar 27)
+461.25 (May 27)
+468.25 (Jul 27)
+464.25 (Sep 27)
+478.25 (Dec 27)
+491.75 (Mar 28)
+CBOT
+Soybeans
+1207.50 (Jan 27)
+1212.75 (Mar 27)
+1219.75 (May 27)
+1225.25 (Jul 27)
+1209.00 (Aug 27)
+1175.50 (Sep 27)
+1169.00 (Nov 27)
+CBOT
+Wheat
+578.25 (Dec 26)
+595.00 (Mar 27)
+600.75 (May 27)
+606.25 (Jul 27)
+618.00 (Sep 27)
+635.25 (Dec 27)
+650.50 (Mar 28)
+CBOT
+White Oats
+355.50 (Dec 26)
+370.25 (Mar 27)
+374.75 (May 27)
+375.75 (Jul 27)
+380.50 (Sep 27)
+384.75 (Dec 27)
+382.75 (Mar 28)
+KCBT
+Wheat
+625.75 (Dec 26)
+640.50 (Mar 27)
+643.25 (May 27)
+645.00 (Jul 27)
+655.25 (Sep 27)
+670.75 (Dec 27)
+682.50 (Mar 28)
+MGE
+Wheat
+641.50 (Dec 26)
+646.25 (Mar 27)
+652.75 (May 27)
+661.25 (Jul 27)
+668.75 (Sep 27)
+682.00 (Dec 27)
+689.25 (Mar 28)
+Coarse
+US #2 Yellow Corn  (Bulk)
+Country Elevators - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+North Central
+Bid
+-35.00Z to -5.00Z
+UNCH
+4.0400-4.3400
+UP 0.0350
+4.1375
+4.0163
+DLVD-T
+Current
+North Central
+Bid
+-35.00H to -10.00H
+UNCH
+4.1750-4.4250
+UP 0.0400
+4.2764
+4.1038
+DLVD-T
+Jan
+Southwest
+Bid
+-26.00Z to -6.00Z
+UNCH-DN 5.00
+4.1300-4.3300
+UP 0.0350-DN 0.0150
+4.2263
+4.0850
+DLVD-T
+Current
+Southwest
+Bid
+-33.00H to -5.00H
+UNCH
+4.1950-4.4750
+UP 0.0400
+4.3438
+4.1675
+DLVD-T
+Jan
+South Central
+Bid
+-30.00Z to -4.00Z
+UNCH
+4.0900-4.3500
+UP 0.0350
+4.2293
+4.0556
+DLVD-T
+Current
+South Central
+Bid
+-30.00H to -14.00H
+UNCH
+4.2250-4.3850
+UP 0.0400
+4.3027
+4.1231
+DLVD-T
+Jan
+North
+Bid
+-40.00Z to -10.00Z
+UNCH
+3.9900-4.2900
+UP 0.0350
+4.1757
+4.0064
+DLVD-T
+Current
+North
+Bid
+-43.00H to -15.00H
+UNCH
+4.0950-4.3750
+UP 0.0400
+4.2407
+4.0775
+DLVD-T
+Jan
+West
+Bid
+-39.00Z to -15.00Z
+UNCH-DN 6.00
+4.0000-4.2400
+UP 0.0350-DN 0.0250
+4.1400
+3.9933
+DLVD-T
+Current
+West
+Bid
+-38.00H to -19.00H
+UNCH
+4.1450-4.3350
+UP 0.0400
+4.2250
+4.0675
+DLVD-T
+Jan
+Wabash
+Bid
+-12.00Z to -8.00Z
+UNCH
+4.2700-4.3100
+UP 0.0350
+4.2875
+4.0975
+DLVD-T
+Current
+Wabash
+Bid
+-20.00H to -14.00H
+UNCH
+4.3250-4.3850
+UP 0.0400
+4.3450
+4.1900
+DLVD-T
+Jan
+Grain Report for 11/19/2026 - Final
+Country Elevator-Central Illinois Average Price: 
+Corn: 4.20 (-19Z)  Soybeans: 11.80 (-31F)
+Page 1 of 4
+USDA AMS Livestock, Poultry & Grain Market News
+General inquiries, please call:  (202) 720-1990 or email:  mymarketnews@usda.gov
+https://mymarketnews.ams.usda.gov/
+https://mymarketnews.ams.usda.gov/viewReport/3192
+|
+http://www.ams.usda.gov/lpgmn
+Source: 
+
+
+Illinois Grain Bids
+AMS Livestock, Poultry and Grain Market News
+IL Dept. of Ag Market News                
+November  19,  2026
+Email us with accessibility issues with this report.
+Little Egypt
+Bid
+-23.00Z to 30.00Z
+DN 2.00-UNCH
+4.1600-4.6900
+UP 0.0150-UP 0.0350
+4.3633
+4.0730
+DLVD-T
+Current
+Little Egypt
+Bid
+-33.00H to 26.00H
+UNCH
+4.1950-4.7850
+UP 0.0400
+4.4175
+4.1855
+DLVD-T
+Jan
+Mills and Processors - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Central
+Bid
+-8.00Z to 20.00Z
+UNCH
+4.3100-4.5900
+UP 0.0350
+4.4500
+4.2667
+DLVD-T
+Current
+Chicago
+Bid
+10.00Z to 25.00Z
+UNCH
+4.4900-4.6400
+UP 0.0350
+4.5650
+4.1800
+DLVD-T
+Current
+Chicago
+Bid
+15.00Z to 20.00Z
+UNCH
+4.5400-4.5900
+UP 0.0350
+4.5650
+4.2700
+DLVD-T
+Dec¹
+Barge Loading Elevators - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Mississippi River
+Bid
+27.00Z
+UNCH
+4.6600
+UP 0.0350
+4.6600
+4.4150
+DLVD-T
+Current
+Mississippi River
+Bid
+27.00H
+UNCH
+4.7950
+UP 0.0400
+4.7950
+4.5575
+DLVD-T
+Jan
+North Illinois River
+Bid
+-12.00Z to -6.00Z
+UNCH-DN 2.00
+4.2700-4.3300
+UP 0.0350-UP 0.0150
+4.3067
+4.1850
+DLVD-T
+Current
+North Illinois River
+Bid
+-14.00H to -4.00H
+UNCH
+4.3850-4.4850
+UP 0.0400
+4.4517
+4.3042
+DLVD-T
+Jan
+South Illinois River
+Bid
+0.00Z to 5.00Z
+UNCH-DN 1.00
+4.3900-4.4400
+UP 0.0350-UP 0.0250
+4.4075
+4.3050
+DLVD-T
+Current
+South Illinois River
+Bid
+-5.00H to 3.00H
+UNCH
+4.4750-4.5550
+UP 0.0400
+4.5100
+4.3450
+DLVD-T
+Jan
+US #1  Soybeans  (Bulk)
+Country Elevators - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+North Central
+Bid
+-40.00F to -18.00F
+UNCH
+11.6750-11.8950
+DN 0.0925
+11.8063
+10.9000
+DLVD-T
+Current
+North Central
+Bid
+-36.00F to -10.00F
+UNCH
+11.7150-11.9750
+DN 0.0925
+11.8800
+10.9463
+DLVD-T
+Jan
+Southwest
+Bid
+-28.00F to 5.00F
+UNCH
+11.7950-12.1250
+DN 0.0925
+11.9479
+10.9564
+DLVD-T
+Current
+Southwest
+Bid
+-16.00F to 11.00F
+UNCH
+11.9150-12.1850
+DN 0.0925
+12.0264
+11.0693
+DLVD-T
+Jan
+South Central
+Bid
+-36.00F to -15.00F
+UP 3.00-UP 2.00
+11.7150-11.9250
+DN 0.0625-DN 0.0725
+11.8329
+10.8694
+DLVD-T
+Current
+South Central
+Bid
+-36.00F to -11.00F
+UNCH
+11.7150-11.9650
+DN 0.0925
+11.8835
+10.9431
+DLVD-T
+Jan
+North
+Bid
+-72.00F to -32.00F
+UNCH
+11.3550-11.7550
+DN 0.0925
+11.5967
+10.7300
+DLVD-T
+Current
+North
+Bid
+-41.00F to -23.00F
+UNCH
+11.6650-11.8450
+DN 0.0925
+11.7410
+10.8533
+DLVD-T
+Jan
+West
+Bid
+-55.00F to -21.00F
+UNCH-UP 1.00
+11.5250-11.8650
+DN 0.0925-DN 0.0825
+11.7190
+10.7890
+DLVD-T
+Current
+West
+Bid
+-40.00F to -14.00F
+UNCH
+11.6750-11.9350
+DN 0.0925
+11.8270
+10.8817
+DLVD-T
+Jan
+Page 2 of 4
+USDA AMS Livestock, Poultry & Grain Market News
+General inquiries, please call:  (202) 720-1990 or email:  mymarketnews@usda.gov
+https://mymarketnews.ams.usda.gov/
+https://mymarketnews.ams.usda.gov/viewReport/3192
+|
+http://www.ams.usda.gov/lpgmn
+Source: 
+
+
+Illinois Grain Bids
+AMS Livestock, Poultry and Grain Market News
+IL Dept. of Ag Market News                
+November  19,  2026
+Email us with accessibility issues with this report.
+Wabash
+Bid
+-30.00F to -25.00F
+UNCH
+11.7750-11.8250
+DN 0.0925
+11.8083
+10.9250
+DLVD-T
+Current
+Wabash
+Bid
+-20.00F
+UNCH
+11.8750
+DN 0.0925
+11.8750
+11.0150
+DLVD-T
+Jan
+Little Egypt
+Bid
+-28.00F to 40.00F
+UNCH
+11.7950-12.4750
+DN 0.0925
+12.0600
+10.9590
+DLVD-T
+Current
+Little Egypt
+Bid
+-14.00F to 43.00F
+UNCH
+11.9350-12.5050
+DN 0.0925
+12.1325
+10.9790
+DLVD-T
+Jan
+Terminal Elevators - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Chicago
+Bid
+-10.00F to 35.00F
+UNCH
+11.9750-12.4250
+DN 0.0925
+12.2000
+11.1250
+DLVD-T
+Current
+Chicago
+Bid
+-5.00F to 25.00F
+UNCH
+12.0250-12.3250
+DN 0.0925
+12.1750
+11.1750
+DLVD-T
+Dec¹
+Mills and Processors - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Central
+Bid
+5.00F to 23.00F
+UNCH
+12.1250-12.3050
+DN 0.0925
+12.2070
+11.1350
+DLVD-T
+Current
+Barge Loading Elevators - Conventional
+Region/Location
+Sale Type
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Mississippi River
+Bid
+35.00F
+UNCH
+12.4250
+DN 0.0925
+12.4250
+11.3050
+DLVD-T
+Current
+Mississippi River
+Bid
+43.00F
+UNCH
+12.5050
+DN 0.0925
+12.5050
+11.4750
+DLVD-T
+Jan
+North Illinois River
+Bid
+-5.00F to 4.00F
+UNCH-UP 6.00
+12.0250-12.1150
+DN 0.0925-DN 0.0325
+12.0517
+11.0133
+DLVD-T
+Current
+North Illinois River
+Bid
+1.00F to 7.00F
+UNCH
+12.0850-12.1450
+DN 0.0925
+12.1200
+11.1717
+DLVD-T
+Jan
+South Illinois River
+Bid
+-2.00F to 6.00F
+UNCH
+12.0550-12.1350
+DN 0.0925
+12.1025
+11.1325
+DLVD-T
+Current
+South Illinois River
+Bid
+9.00F to 13.00F
+UNCH
+12.1650-12.2050
+DN 0.0925
+12.1900
+11.2075
+DLVD-T
+Jan
+US #1 Soft Red Winter Wheat  (Bulk)
+Country Elevators - Conventional
+Region/Location
+Sale Type
+Protein
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+Southwest
+Bid
+Ordinary
+-65.00N
+UNCH
+5.4125
+UP 0.0725
+5.4125
+DLVD-T
+Jun - Jul
+Barge Loading Elevators - Conventional
+Region/Location
+Sale Type
+Protein
+Basis (¢/Bu)
+Basis Change
+Price($/Bu)
+Price Change
+Average Year Ago
+Freight
+Delivery
+South Illinois River
+Bid
+Ordinary -45.00N to -40.00N
+UNCH
+5.6125-5.6625
+UP 0.0725
+5.6375
+5.1850
+DLVD-T
+Jun - Jul
+Terminals/Mills/Processors - Conventional
+Page 3 of 4
+USDA AMS Livestock, Poultry & Grain Market News
+General inquiries, please call:  (202) 720-1990 or email:  mymarketnews@usda.gov
+https://mymarketnews.ams.usda.gov/
+https://mymarketnews.ams.usda.gov/viewReport/3192
+|
+http://www.ams.usda.gov/lpgmn
+Source: 

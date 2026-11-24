@@ -11,3 +11,4 @@ venv/
 *.log
 !data/**/.gitkeep
 !reports/figures/.gitkeep
+.idea/
