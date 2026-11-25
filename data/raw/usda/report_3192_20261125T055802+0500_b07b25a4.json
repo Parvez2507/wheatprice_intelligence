@@ -1,0 +1,11 @@
+{
+    "report_id": "3192",
+    "report_name": "Illinois Grain Bids",
+    "source_url": "https://www.ams.usda.gov/mnreports/ams_3192.pdf",
+    "retrieved_at_tashkent": "2026-11-25T05:58:02.114073+05:00",
+    "sha256": "b07b25a498fe3291796fe75b9081d141f1046ad613fdd6a1a0a55bf15d195490",
+    "filename": "report_3192_20261125T055802+0500_b07b25a4.pdf",
+    "page_count": 4,
+    "report_date": null,
+    "report_date_status": "requires_manual_verification"
+}

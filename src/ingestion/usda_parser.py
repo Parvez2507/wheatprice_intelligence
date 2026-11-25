@@ -41,23 +41,30 @@ def extract_report_date(text: str) -> str:
     return date.date().isoformat()
 
 
-
-
 def extract_wheat(text: str) -> Decimal:
     """Extract the approved Ordinary protein / FOB-R / Current wheat Average."""
 
     normalized = " ".join(text.split())
 
+    change = (
+        r"(?:UNCH|(?:UP|DN)\s+[\d.]+)"
+        r"(?:\s*-\s*(?:UNCH|(?:UP|DN)\s+[\d.]+))?"
+    )
+
     pattern = (
         r"\bBid\s+Ordinary\s+"
-        r"[\d.]+Z(?:\s+to\s+[\d.]+Z)?\s+"
-        r"(?:UNCH|(?:UP|DN)\s+[\d.]+)"
-        r"(?:\s*-\s*(?:UNCH|(?:UP|DN)\s+[\d.]+))?\s+"
+        # Basis
+        r"[\d.]+[ZH](?:\s+to\s+[\d.]+[ZH])?\s+"
+        # Optional Basis Change, including its trailing whitespace
+        r"(?:" + change + r"\s+)?"
+        # Price range
         r"[\d.]+(?:-[\d.]+)?\s+"
-        r"(?:UNCH|(?:UP|DN)\s+[\d.]+)"
-        r"(?:\s*-\s*(?:UP|DN)\s+[\d.]+)?\s+"
-        r"([\d.]+)\s+"          # Average
-        r"(?:[\d.]+\s+)?"       # Year Ago (optional)
+        # Price Change
+        + change + r"\s+"
+        # Average
+        r"([\d.]+)\s+"
+        # Optional Year Ago
+        r"(?:[\d.]+\s+)?"
         r"FOB-R\s+Current\b"
     )
 
